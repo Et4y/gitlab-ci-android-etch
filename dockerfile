@@ -2,11 +2,11 @@
 # GitLab CI: Android
 # Version: 1.0.0
 #
-# https://hub.docker.com/r/sakarsh/gitlab-ci-android-akarsh-seggemu/
+# https://hub.docker.com/r/et4y/gitlab-ci-android-etch/
 #
 
 FROM ubuntu:18.04
-MAINTAINER Akarsh Seggemu <sakarshkumar@gmail.com>
+MAINTAINER Hisham Ali <hi4am3ly@gmail.com>
 
 ENV VERSION_SDK_TOOLS "3859397"
 
